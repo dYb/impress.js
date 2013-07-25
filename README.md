@@ -1,6 +1,8 @@
 impress.js
 ============
 
+翻译`index.html`为中文，页面字体太蛋疼，建议下载到本地查看
+
 It's a presentation framework based on the power of CSS3 transforms and 
 transitions in modern browsers and inspired by the idea behind prezi.com.
 
